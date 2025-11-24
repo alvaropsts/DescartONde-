@@ -34,7 +34,7 @@ Escopo Atual: Santa Maria (RS):
 
 Atualmente, o "DescartONde?" mapeia os pontos de coleta de 5 segmentos de resíduos especiais na cidade de Santa Maria, Rio Grande do Sul, servindo como um piloto funcional do conceito.
 
-4. Evolução e Escalabilidade Futura (Roadmap):
+Evolução e Escalabilidade Futura (Roadmap):
 
 O potencial do "DescartONde?" é de escalabilidade nacional, podendo se tornar a ferramenta de referência para Logística Reversa no Brasil:
 
