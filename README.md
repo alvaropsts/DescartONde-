@@ -18,50 +18,17 @@ O "DescartONde?" transforma pesquisa exaustiva em uma resposta instantânea e pr
 
 Inovação, Desenvolvimento e Escopo Atual:
 
-1. Inovação Técnica e Contexto Pessoal
-
-Este projeto representa meu primeiro contato com programação e desenvolvimento web, sendo uma prova de que a tecnologia pode ser aplicada para resolver problemas complexos com eficácia imediata.
-
-O projeto é inovador ao integrar:
-
-Processamento de Dados: Transforma dados brutos e voláteis de logística reversa em informações exatas e validadas.
-
-Interface Dinâmica: Oferece uma experiência de usuário (UX) focada em uma única pergunta: "DescartONde?".
-
-Pesquisa Orientada por IA: A base de dados foi construída e validada através de um processo iterativo e rigoroso de pesquisa, utilizando ferramentas de inteligência artificial para refinar a precisão geográfica dos pontos de coleta, superando a imprecisão de fontes públicas comuns, que fora um desafio real que se apresentou durante todo o desenvolvimento.
-
-Este é um projeto com um propósito social e ambiental extremamente claro e relevante. É crucial estruturar a descrição para destacar a inovação técnica, o impacto prático e a escalabilidade.
-
-Aqui está uma proposta de descrição do seu projeto, focada nos pontos de conceito, importância, evolução e mérito, que você pode adaptar para sua apresentação:
-
-Proposta de Descrição do Projeto: DescartONde?
-1. Título e Conceito
-Título: DescartONde? Subtítulo: Acessibilidade, Precisão e Logística Reversa: Onde o descarte correto encontra a tecnologia.
-
-Conceito: O DescartONde? é uma plataforma web dinâmica e prática desenvolvida para resolver a principal barreira da Logística Reversa: a falta de informação georreferenciada e precisa sobre os Pontos de Entrega Voluntária (PEVs) de resíduos especiais (como pilhas, lâmpadas, óleo de cozinha e medicamentos).
-
-2. A Importância e o Problema Resolvido
-Problema: A Inacessibilidade da Informação
-A Política Nacional de Resíduos Sólidos exige que cidadãos e empresas descartem corretamente os resíduos perigosos. Contudo, a informação sobre onde e como descartar esses materiais está dispersa, desatualizada ou restrita a documentos técnicos. Isso resulta no descarte incorreto, que causa:
-
-Contaminação Ambiental: Metais pesados (Mercúrio, Chumbo) e princípios ativos de medicamentos vazam em aterros e redes de esgoto.
-
-Risco à Saúde Pública: Criação de superbactérias e intoxicações por mercúrio e outros contaminantes.
-
-Solução: Acessibilidade Imediata
-O DescartONde? transforma pesquisa exaustiva em uma resposta instantânea e precisa. Nossa interface é projetada para ser intuitiva, fornecendo a localização exata (Rua, Número, Bairro) dos pontos de coleta de resíduos não-comuns, garantindo que o ciclo da Logística Reversa possa ser concluído pelo cidadão.
-
-3. Inovação, Desenvolvimento e Escopo Atual
 Inovação Técnica e Contexto Pessoal
+
 Este projeto representa meu primeiro contato com programação e desenvolvimento web, sendo uma prova de que a tecnologia pode ser aplicada para resolver problemas complexos com eficácia imediata.
 
 O projeto é inovador ao integrar:
 
-Processamento de Dados: Transforma dados brutos e voláteis de logística reversa em informações exatas e validadas.
+1. Processamento de Dados: Transforma dados brutos e voláteis de logística reversa em informações exatas e validadas.
 
-Interface Dinâmica: Oferece uma experiência de usuário (UX) focada em uma única pergunta: "DescartONde?".
+2. Interface Dinâmica: Oferece uma experiência de usuário (UX) focada em uma única pergunta: "DescartONde?".
 
-Pesquisa Orientada por IA: A base de dados foi construída e validada através de um processo iterativo e rigoroso de pesquisa, utilizando ferramentas de inteligência artificial para refinar a precisão geográfica dos pontos de coleta, superando a imprecisão de fontes públicas comuns.
+3. Pesquisa Orientada por IA: A base de dados foi construída e validada através de um processo iterativo e rigoroso de pesquisa, utilizando ferramentas de inteligência artificial para refinar a precisão geográfica dos pontos de coleta, superando a imprecisão de fontes públicas comuns, que fora um desafio real que se apresentou durante todo o desenvolvimento.
 
 Escopo Atual: Santa Maria (RS):
 
