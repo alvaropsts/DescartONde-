@@ -1,0 +1,171 @@
+[
+    {
+        "segmento": "Varejo de Supermercados",
+        "categoria": "Pilhas e Baterias (Pequeno Porte)",
+        "locais": [
+            { "nome": "Beltrame Supermercados", "link": "https://maps.app.goo.gl/nCHh3iGHmng5J6KU8" },
+            { "nome": "Supermercado Peruzzo", "link": "https://maps.app.goo.gl/BNj6AJTgQrXtbpSx8" },
+            { "nome": "Atacadão", "link": "https://maps.app.goo.gl/Af61jyAqtJaxhySw6" }
+        ]
+    },
+    {
+        "segmento": "Varejo de Eletroeletrônicos",
+        "categoria": "Pilhas e Baterias (Pequeno Porte)",
+        "locais": [
+            { "nome": "Lojas Colombo", "link": "https://maps.app.goo.gl/zMxndxQGaXXsccgt6" },
+            { "nome": "Magazine Luiza", "link": "https://maps.app.goo.gl/FXN26RqLxazs2Hbq6" },
+            { "nome": "Lojas Lebes", "link": "https://maps.app.goo.gl/s66Hpkhxfp6fzsTx6" }
+        ]
+    },
+    {
+        "segmento": "Farmácias de Grande Rede",
+        "categoria": "Pilhas e Baterias (Pequeno Porte)",
+        "locais": [
+            { "nome": "Farmácia DrogaRaia", "link": "https://maps.app.goo.gl/V4PwFLkge9hf9Ue27" },
+            { "nome": "Farmácia São João", "link": "https://maps.app.goo.gl/1zpLn9nEQhSLjWsi9" },
+            { "nome": "Farmácia Panvel", "link": "https://maps.app.goo.gl/qRFcCpmAVKWpq28f6" }
+        ]
+    },
+    {
+        "segmento": "Assistências Técnicas",
+        "categoria": "Pilhas e Baterias (Pequeno Porte)",
+        "locais": [
+            { "nome": "Help Manutenção de Celulares", "link": "https://maps.app.goo.gl/53V723ZSFQgYvQcA7" },
+            { "nome": "MAQTEC", "link": "https://maps.app.goo.gl/DLt5wEqSrqqs6yMo8" },
+            { "nome": "KB Tech", "link": "https://maps.app.goo.gl/PFyRHecyHJbA6B1P9" }
+        ]
+    },
+    {
+        "segmento": "Instituições Financeiras",
+        "categoria": "Pilhas e Baterias (Pequeno Porte)",
+        "locais": [
+            { "nome": "Banrisul", "link": "https://maps.app.goo.gl/8BUyiPAHXvSqTTub6" },
+            { "nome": "Sicredi", "link": "https://maps.app.goo.gl/qertRkLWTSSD2EVe9" },
+            { "nome": "Caixa Econômica Federal", "link": "https://maps.app.goo.gl/3sxvdnRsZUB2B2jN8" }
+        ]
+    },
+    {
+        "segmento": "Varejo de Materiais Elétricos",
+        "categoria": "Lâmpadas Fluorescentes/LED (Logística Reversa)",
+        "locais": [
+            { "nome": "Frazzon Elétrica", "link": "https://maps.app.goo.gl/TFBGVfFycvcFcB286" },
+            { "nome": "Kapper Materiais Elétricos", "link": "https://maps.app.goo.gl/9Ka3Q2trmhEKpfQS9" }
+        ]
+    },
+    {
+        "segmento": "Varejo de Materiais de Construção",
+        "categoria": "Lâmpadas Fluorescentes/LED (Logística Reversa)",
+        "locais": [
+            { "nome": "Lojas Quero-Quero", "link": "https://maps.app.goo.gl/V55LuZ8Ww7WVYTxc6" },
+            { "nome": "Tumelero", "link": "https://maps.app.goo.gl/q2qXu4o7TVjxvjr1A" },
+            { "nome": "Cia do Vidro", "link": "https://maps.app.goo.gl/ieu2EWCqLDg5s3Sn9" }
+        ]
+    },
+    {
+        "segmento": "Varejo de Grande Porte",
+        "categoria": "Lâmpadas Fluorescentes/LED (Logística Reversa)",
+        "locais": [
+            { "nome": "Beltrame Supermercados", "link": "https://maps.app.goo.gl/tR62kmkstMVUEmBaA" },
+            { "nome": "Atacadão", "link": "https://maps.app.goo.gl/sMYiPFiyQB4L5VUy5" },
+            { "nome": "Carrefour", "link": "https://maps.app.goo.gl/LdPXM8riy6yZmy6JA" }
+        ]
+    },
+    {
+        "segmento": "Farmácias de Grande Rede",
+        "categoria": "Medicamentos Vencidos (Logística Reversa)",
+        "locais": [
+            { "nome": "Farmácia DrogaRaia", "link": "https://maps.app.goo.gl/V4PwFLkge9hf9Ue27" },
+            { "nome": "Farmácia São João", "link": "https://maps.app.goo.gl/1zpLn9nEQhSLjWsi9" },
+            { "nome": "Farmácia Panvel", "link": "https://maps.app.goo.gl/qRFcCpmAVKWpq28f6" }
+        ]
+    },
+    {
+        "segmento": "Unidades Básicas de Saúde (UBS)",
+        "categoria": "Medicamentos Vencidos (Logística Reversa)",
+        "locais": [
+            { "nome": "UBS Centro", "link": "https://maps.app.goo.gl/ypQ7XgtBQFqAy2yn6" },
+            { "nome": "UBS Tancredo Neves", "link": "https://maps.app.goo.gl/c2xrqEgrnf78aNDUA" },
+            { "nome": "UBS Camobi", "link": "https://maps.app.goo.gl/fpW9vpGDDEEVLqFh9" }
+        ]
+    },
+    {
+        "segmento": "Hospitais",
+        "categoria": "Medicamentos Vencidos (Logística Reversa)",
+        "locais": [
+            { "nome": "Hospital de Caridade", "link": "https://maps.app.goo.gl/yhsdYvKHzDU9EKWi9" },
+            { "nome": "HUSM", "link": "https://maps.app.goo.gl/nrzRjTf6U1kEx8do6", "nomeCompleto": "HUSM (Hospital Universitário)" },
+            { "nome": "UPA", "link": "https://maps.app.goo.gl/CCgnfMb5DE4S2v3s9", "nomeCompleto": "UPA (Unidade de Pronto Atendimento)" },
+            { "nome": "Casa de Saúde", "link": "https://maps.app.goo.gl/u9wk1a39ePq4L8NcA" }
+        ]
+    },
+    {
+        "segmento": "Ensino e Pesquisa em Saúde",
+        "categoria": "Medicamentos Vencidos (Logística Reversa)",
+        "locais": [
+            { "nome": "UFSM - Farmácia Escola", "link": "https://maps.app.goo.gl/SMnKVhMY9EG5C8dq7" },
+            { "nome": "UFN - Prédio da Saúde", "link": "https://maps.app.goo.gl/fKMxks8vyxA7q8GD9" },
+            { "nome": "Colégio Politécnico (Laboratórios)", "link": "https://maps.app.goo.gl/ZX1Lu53n1nGcKBSbA" }
+        ]
+    },
+    {
+        "segmento": "Supermercados e Atacados",
+        "categoria": "Óleo de Cozinha Usado (Embalado em PET)",
+        "locais": [
+            { "nome": "Beltrame Supermercados (PEV)", "link": "https://maps.app.goo.gl/3d7axoQt6Jok6dsi9" },
+            { "nome": "Supermercado Peruzzo", "link": "https://maps.app.goo.gl/eq6T9B3Qi7Psi8bL6" }
+        ]
+    },
+    {
+        "segmento": "Instituições de Ensino/Grandes Geradores",
+        "categoria": "Óleo de Cozinha Usado (Embalado em PET)",
+        "locais": [
+            { "nome": "RU (UFSM)", "link": "https://maps.app.goo.gl/aRkyhLBFSShdvuvs6", "nomeCompleto": "UFSM - Restaurante Universitário (RU)" },
+            { "nome": "Colégio Marista Santa Maria", "link": "https://maps.app.goo.gl/EuAHZRWwzzAbH7kM7" },
+            { "nome": "Colégio Militar de Santa Maria", "link": "https://maps.app.goo.gl/hZZu1NDAzksgwWn76" }
+        ]
+    },
+    {
+        "segmento": "Órgãos Públicos/Entidades",
+        "categoria": "Óleo de Cozinha Usado (Embalado em PET)",
+        "locais": [
+            { "nome": "Câmara de Vereadores", "link": "https://maps.app.goo.gl/XiHoPtLSN4DKY9qQ8" },
+            { "nome": "4º Batalhão de Bombeiros Militar", "link": "https://maps.app.goo.gl/ChScUK4MWKfjbo6N7" },
+            { "nome": "Sede Administrativa da Prefeitura", "link": "https://maps.app.goo.gl/A2oX1v4JpJby7vWe7" }
+        ]
+    },
+    {
+        "segmento": "Empresas Recicladoras/Parceiras",
+        "categoria": "Óleo de Cozinha Usado (Embalado em PET)",
+        "locais": [
+            { "nome": "CRIR Reciclados (Sede)", "link": "https://maps.app.goo.gl/7fbUSGNxQCoPDwWk9" },
+            { "nome": "JP Castelinho", "link": "https://maps.app.goo.gl/cSzsFJVbF2v1WvRh9" },
+            { "nome": "Reciclagem do KM3", "link": "https://maps.app.goo.gl/SQsErNwEHYRNfEpG8" }
+        ]
+    },
+    {
+        "segmento": "Lojas e Revendas de Pneus",
+        "categoria": "Pneus (Logística Reversa)",
+        "locais": [
+            { "nome": "Casa dos Pneus", "link": "https://maps.app.goo.gl/tLk4vNhdMvBkMrFK9" },
+            { "nome": "Mademax Pneus", "link": "https://maps.app.goo.gl/kAbm8D53m9RS2PNh7" },
+            { "nome": "Borracharia do Alemão", "link": "https://maps.app.goo.gl/JYCPyDyGftyqDwBT6" }
+        ]
+    },
+    {
+        "segmento": "Órgãos de Gestão de Frota",
+        "categoria": "Pneus (Logística Reversa)",
+        "locais": [
+            { "nome": "Garagem Municipal", "link": "https://maps.app.goo.gl/8SLFNGbR2g1LKXKi7" }
+        ]
+    },
+    {
+        "segmento": "Recicladoras e Cooperativas",
+        "categoria": "Pneus (Logística Reversa)",
+        "locais": [
+            { "nome": "A.R.S.E.", "link": "https://maps.app.goo.gl/g3VERHs41myiMm5C7", "nomeCompleto": "Associação de Reciclagem Seletivo Esperança" },
+            { "nome": "A.S.M.A.R.", "link": "https://maps.app.goo.gl/Tnm9v2w9VuuVD8BJ9", "nomeCompleto": "Associação dos Selecionadores de Material Reciclável" },
+            { "nome": "Recicladora Santa Marta", "link": "https://maps.app.goo.gl/ENWMtxkZrLjQCowe6" },
+            { "nome": "LK Reciclagem", "link": "https://maps.app.goo.gl/sZb8U2nkXg8KNids9" }
+        ]
+    }
+]
